@@ -14,7 +14,7 @@ public class AnimatedPictureViewer{
     Thread animation;
 
     private int x = 450;
-    private int y = 400;
+    private int y = 380;
 
     private int speed = 5;
     
