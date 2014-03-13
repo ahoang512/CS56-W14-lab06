@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.W14.drawings.a_hoang.simple;
+package edu.ucsb.cs56.w14.drawings.a_hoang.simple;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import javax.swing.JPanel;

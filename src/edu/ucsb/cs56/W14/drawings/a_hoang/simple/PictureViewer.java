@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.W14.drawings.a_hoang.simple;
+package edu.ucsb.cs56.w14.drawings.a_hoang.simple;
 import javax.swing.JFrame;
 
 /** A viewer class to see a picture I drew with 
